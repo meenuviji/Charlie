@@ -26,7 +26,7 @@ User → Chat UI → Backend (FastAPI)
 - Backend: FastAPI + httpx
 - Optional: Redis for short-term caching
 
-- ## 4. License
+## 4. License
 MIT License — see `LICENSE`.
 
 ## 5. Disclaimer
