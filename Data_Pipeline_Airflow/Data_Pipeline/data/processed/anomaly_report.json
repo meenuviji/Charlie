@@ -1,0 +1,14 @@
+[
+  {
+    "missing_arrival_time": 29419,
+    "file": "predictions.csv"
+  },
+  {
+    "invalid_latitude_rows": 0,
+    "invalid_longitude_rows": 0,
+    "file": "vehicles.csv"
+  },
+  {
+    "file": "alerts.csv"
+  }
+]

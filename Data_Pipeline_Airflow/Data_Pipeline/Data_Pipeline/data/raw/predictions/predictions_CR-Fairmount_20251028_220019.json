@@ -1,0 +1,265 @@
+{
+  "data": [
+    {
+      "attributes": {
+        "arrival_time": "2025-10-28T17:59:38-04:00",
+        "arrival_uncertainty": null,
+        "departure_time": "2025-10-28T18:00:00-04:00",
+        "departure_uncertainty": null,
+        "direction_id": 0,
+        "last_trip": false,
+        "revenue": "REVENUE",
+        "schedule_relationship": null,
+        "status": null,
+        "stop_sequence": 30,
+        "update_type": null
+      },
+      "id": "prediction-Base-772931-1673-DB-2249-01-30-CR-Fairmount",
+      "relationships": {
+        "route": {
+          "data": {
+            "id": "CR-Fairmount",
+            "type": "route"
+          }
+        },
+        "stop": {
+          "data": {
+            "id": "DB-2249-01",
+            "type": "stop"
+          }
+        },
+        "trip": {
+          "data": {
+            "id": "Base-772931-1673",
+            "type": "trip"
+          }
+        },
+        "vehicle": {
+          "data": {
+            "id": "1846",
+            "type": "vehicle"
+          }
+        }
+      },
+      "type": "prediction"
+    },
+    {
+      "attributes": {
+        "arrival_time": "2025-10-28T18:03:47-04:00",
+        "arrival_uncertainty": null,
+        "departure_time": "2025-10-28T18:03:47-04:00",
+        "departure_uncertainty": null,
+        "direction_id": 0,
+        "last_trip": false,
+        "revenue": "REVENUE",
+        "schedule_relationship": null,
+        "status": null,
+        "stop_sequence": 40,
+        "update_type": null
+      },
+      "id": "prediction-Base-772931-1673-DB-2240-01-40-CR-Fairmount",
+      "relationships": {
+        "route": {
+          "data": {
+            "id": "CR-Fairmount",
+            "type": "route"
+          }
+        },
+        "stop": {
+          "data": {
+            "id": "DB-2240-01",
+            "type": "stop"
+          }
+        },
+        "trip": {
+          "data": {
+            "id": "Base-772931-1673",
+            "type": "trip"
+          }
+        },
+        "vehicle": {
+          "data": {
+            "id": "1846",
+            "type": "vehicle"
+          }
+        }
+      },
+      "type": "prediction"
+    },
+    {
+      "attributes": {
+        "arrival_time": "2025-10-28T18:05:16-04:00",
+        "arrival_uncertainty": null,
+        "departure_time": "2025-10-28T18:06:00-04:00",
+        "departure_uncertainty": null,
+        "direction_id": 0,
+        "last_trip": false,
+        "revenue": "REVENUE",
+        "schedule_relationship": null,
+        "status": null,
+        "stop_sequence": 50,
+        "update_type": null
+      },
+      "id": "prediction-Base-772931-1673-DB-2230-01-50-CR-Fairmount",
+      "relationships": {
+        "route": {
+          "data": {
+            "id": "CR-Fairmount",
+            "type": "route"
+          }
+        },
+        "stop": {
+          "data": {
+            "id": "DB-2230-01",
+            "type": "stop"
+          }
+        },
+        "trip": {
+          "data": {
+            "id": "Base-772931-1673",
+            "type": "trip"
+          }
+        },
+        "vehicle": {
+          "data": {
+            "id": "1846",
+            "type": "vehicle"
+          }
+        }
+      },
+      "type": "prediction"
+    },
+    {
+      "attributes": {
+        "arrival_time": "2025-10-28T18:08:18-04:00",
+        "arrival_uncertainty": null,
+        "departure_time": "2025-10-28T18:08:18-04:00",
+        "departure_uncertainty": null,
+        "direction_id": 0,
+        "last_trip": false,
+        "revenue": "REVENUE",
+        "schedule_relationship": null,
+        "status": null,
+        "stop_sequence": 60,
+        "update_type": null
+      },
+      "id": "prediction-Base-772931-1673-DB-2222-01-60-CR-Fairmount",
+      "relationships": {
+        "route": {
+          "data": {
+            "id": "CR-Fairmount",
+            "type": "route"
+          }
+        },
+        "stop": {
+          "data": {
+            "id": "DB-2222-01",
+            "type": "stop"
+          }
+        },
+        "trip": {
+          "data": {
+            "id": "Base-772931-1673",
+            "type": "trip"
+          }
+        },
+        "vehicle": {
+          "data": {
+            "id": "1846",
+            "type": "vehicle"
+          }
+        }
+      },
+      "type": "prediction"
+    },
+    {
+      "attributes": {
+        "arrival_time": "2025-10-28T18:11:46-04:00",
+        "arrival_uncertainty": null,
+        "departure_time": "2025-10-28T18:11:46-04:00",
+        "departure_uncertainty": null,
+        "direction_id": 0,
+        "last_trip": false,
+        "revenue": "REVENUE",
+        "schedule_relationship": null,
+        "status": null,
+        "stop_sequence": 70,
+        "update_type": null
+      },
+      "id": "prediction-Base-772931-1673-DB-2205-01-70-CR-Fairmount",
+      "relationships": {
+        "route": {
+          "data": {
+            "id": "CR-Fairmount",
+            "type": "route"
+          }
+        },
+        "stop": {
+          "data": {
+            "id": "DB-2205-01",
+            "type": "stop"
+          }
+        },
+        "trip": {
+          "data": {
+            "id": "Base-772931-1673",
+            "type": "trip"
+          }
+        },
+        "vehicle": {
+          "data": {
+            "id": "1846",
+            "type": "vehicle"
+          }
+        }
+      },
+      "type": "prediction"
+    },
+    {
+      "attributes": {
+        "arrival_time": "2025-10-28T18:14:21-04:00",
+        "arrival_uncertainty": null,
+        "departure_time": null,
+        "departure_uncertainty": null,
+        "direction_id": 0,
+        "last_trip": false,
+        "revenue": "REVENUE",
+        "schedule_relationship": null,
+        "status": null,
+        "stop_sequence": 80,
+        "update_type": null
+      },
+      "id": "prediction-Base-772931-1673-FB-0095-04-80-CR-Fairmount",
+      "relationships": {
+        "route": {
+          "data": {
+            "id": "CR-Fairmount",
+            "type": "route"
+          }
+        },
+        "stop": {
+          "data": {
+            "id": "FB-0095-04",
+            "type": "stop"
+          }
+        },
+        "trip": {
+          "data": {
+            "id": "Base-772931-1673",
+            "type": "trip"
+          }
+        },
+        "vehicle": {
+          "data": {
+            "id": "1846",
+            "type": "vehicle"
+          }
+        }
+      },
+      "type": "prediction"
+    }
+  ],
+  "jsonapi": {
+    "version": "1.0"
+  }
+}

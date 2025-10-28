@@ -1,0 +1,83 @@
+[
+  {
+    "file": "Data_Pipeline/data/processed/predictions.csv",
+    "rows": 374706,
+    "missing_columns": [],
+    "extra_columns": [
+      "relationships.stop.data.id",
+      "attributes.update_type",
+      "attributes.revenue",
+      "route_from_filename",
+      "attributes.arrival_uncertainty",
+      "attributes.status",
+      "attributes.direction_id",
+      "attributes.last_trip",
+      "relationships.stop.data.type",
+      "relationships.vehicle.data.type",
+      "relationships.trip.data.type",
+      "relationships.vehicle.data.id",
+      "attributes.stop_sequence",
+      "attributes.departure_uncertainty",
+      "attributes.schedule_relationship",
+      "relationships.vehicle.data",
+      "relationships.trip.data.id",
+      "relationships.route.data.type",
+      "type"
+    ],
+    "status": "PASS"
+  },
+  {
+    "file": "Data_Pipeline/data/processed/vehicles.csv",
+    "rows": 445,
+    "missing_columns": [],
+    "extra_columns": [
+      "relationships.stop.data.id",
+      "attributes.revenue",
+      "attributes.bearing",
+      "attributes.carriages",
+      "attributes.direction_id",
+      "attributes.occupancy_status",
+      "relationships.stop.data",
+      "relationships.stop.data.type",
+      "attributes.current_status",
+      "relationships.trip.data.type",
+      "attributes.current_stop_sequence",
+      "links.self",
+      "attributes.updated_at",
+      "type",
+      "attributes.speed",
+      "relationships.trip.data.id",
+      "relationships.route.data.type",
+      "attributes.label"
+    ],
+    "status": "PASS"
+  },
+  {
+    "file": "Data_Pipeline/data/processed/alerts.csv",
+    "rows": 90,
+    "missing_columns": [],
+    "extra_columns": [
+      "attributes.description",
+      "attributes.informed_entity",
+      "attributes.timeframe",
+      "attributes.reminder_times",
+      "attributes.severity",
+      "attributes.image_alternative_text",
+      "attributes.banner",
+      "attributes.last_push_notification_timestamp",
+      "attributes.url",
+      "attributes.closed_timestamp",
+      "attributes.active_period",
+      "links.self",
+      "attributes.created_at",
+      "attributes.image",
+      "attributes.service_effect",
+      "attributes.short_header",
+      "attributes.duration_certainty",
+      "attributes.header",
+      "attributes.lifecycle",
+      "type"
+    ],
+    "status": "PASS"
+  }
+]
