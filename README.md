@@ -245,7 +245,7 @@ Below are screenshots of the Airflow UI demonstrating the successful execution o
 ![Final Data Pipeline Gantt](screenshots/Final_Data_Pipeline_Gantt.png)
  ---
 
-## 🧾 References
+## References
 - [Apache Airflow Documentation](https://airflow.apache.org/docs/)
 - [DVC Documentation](https://dvc.org/doc)
 - [Fairlearn Documentation](https://fairlearn.org/)
