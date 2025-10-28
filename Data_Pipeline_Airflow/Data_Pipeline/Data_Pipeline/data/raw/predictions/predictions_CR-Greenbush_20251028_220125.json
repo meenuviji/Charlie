@@ -1,0 +1,394 @@
+{
+  "data": [
+    {
+      "attributes": {
+        "arrival_time": "2025-10-28T18:01:39-04:00",
+        "arrival_uncertainty": 301,
+        "departure_time": "2025-10-28T18:01:39-04:00",
+        "departure_uncertainty": 301,
+        "direction_id": 1,
+        "last_trip": false,
+        "revenue": "REVENUE",
+        "schedule_relationship": null,
+        "status": null,
+        "stop_sequence": 20,
+        "update_type": null
+      },
+      "id": "prediction-Base-774215-1086-GRB-0199-S-20-CR-Greenbush",
+      "relationships": {
+        "route": {
+          "data": {
+            "id": "CR-Greenbush",
+            "type": "route"
+          }
+        },
+        "stop": {
+          "data": {
+            "id": "GRB-0199-S",
+            "type": "stop"
+          }
+        },
+        "trip": {
+          "data": {
+            "id": "Base-774215-1086",
+            "type": "trip"
+          }
+        },
+        "vehicle": {
+          "data": {
+            "id": "1830",
+            "type": "vehicle"
+          }
+        }
+      },
+      "type": "prediction"
+    },
+    {
+      "attributes": {
+        "arrival_time": "2025-10-28T18:03:39-04:00",
+        "arrival_uncertainty": 301,
+        "departure_time": "2025-10-28T18:03:39-04:00",
+        "departure_uncertainty": 301,
+        "direction_id": 1,
+        "last_trip": false,
+        "revenue": "REVENUE",
+        "schedule_relationship": null,
+        "status": null,
+        "stop_sequence": 30,
+        "update_type": null
+      },
+      "id": "prediction-Base-774215-1086-GRB-0183-S-30-CR-Greenbush",
+      "relationships": {
+        "route": {
+          "data": {
+            "id": "CR-Greenbush",
+            "type": "route"
+          }
+        },
+        "stop": {
+          "data": {
+            "id": "GRB-0183-S",
+            "type": "stop"
+          }
+        },
+        "trip": {
+          "data": {
+            "id": "Base-774215-1086",
+            "type": "trip"
+          }
+        },
+        "vehicle": {
+          "data": {
+            "id": "1830",
+            "type": "vehicle"
+          }
+        }
+      },
+      "type": "prediction"
+    },
+    {
+      "attributes": {
+        "arrival_time": "2025-10-28T18:05:13-04:00",
+        "arrival_uncertainty": null,
+        "departure_time": "2025-10-28T18:05:13-04:00",
+        "departure_uncertainty": null,
+        "direction_id": 0,
+        "last_trip": false,
+        "revenue": "REVENUE",
+        "schedule_relationship": null,
+        "status": null,
+        "stop_sequence": 80,
+        "update_type": null
+      },
+      "id": "prediction-Base-774212-1081-GRB-0233-S-80-CR-Greenbush",
+      "relationships": {
+        "route": {
+          "data": {
+            "id": "CR-Greenbush",
+            "type": "route"
+          }
+        },
+        "stop": {
+          "data": {
+            "id": "GRB-0233-S",
+            "type": "stop"
+          }
+        },
+        "trip": {
+          "data": {
+            "id": "Base-774212-1081",
+            "type": "trip"
+          }
+        },
+        "vehicle": {
+          "data": {
+            "id": "1840",
+            "type": "vehicle"
+          }
+        }
+      },
+      "type": "prediction"
+    },
+    {
+      "attributes": {
+        "arrival_time": "2025-10-28T18:07:26-04:00",
+        "arrival_uncertainty": 301,
+        "departure_time": "2025-10-28T18:07:26-04:00",
+        "departure_uncertainty": 301,
+        "direction_id": 1,
+        "last_trip": false,
+        "revenue": "REVENUE",
+        "schedule_relationship": null,
+        "status": null,
+        "stop_sequence": 40,
+        "update_type": null
+      },
+      "id": "prediction-Base-774215-1086-GRB-0162-S-40-CR-Greenbush",
+      "relationships": {
+        "route": {
+          "data": {
+            "id": "CR-Greenbush",
+            "type": "route"
+          }
+        },
+        "stop": {
+          "data": {
+            "id": "GRB-0162-S",
+            "type": "stop"
+          }
+        },
+        "trip": {
+          "data": {
+            "id": "Base-774215-1086",
+            "type": "trip"
+          }
+        },
+        "vehicle": {
+          "data": {
+            "id": "1830",
+            "type": "vehicle"
+          }
+        }
+      },
+      "type": "prediction"
+    },
+    {
+      "attributes": {
+        "arrival_time": "2025-10-28T18:09:49-04:00",
+        "arrival_uncertainty": 301,
+        "departure_time": "2025-10-28T18:11:00-04:00",
+        "departure_uncertainty": 301,
+        "direction_id": 1,
+        "last_trip": false,
+        "revenue": "REVENUE",
+        "schedule_relationship": null,
+        "status": null,
+        "stop_sequence": 50,
+        "update_type": null
+      },
+      "id": "prediction-Base-774215-1086-GRB-0146-S-50-CR-Greenbush",
+      "relationships": {
+        "route": {
+          "data": {
+            "id": "CR-Greenbush",
+            "type": "route"
+          }
+        },
+        "stop": {
+          "data": {
+            "id": "GRB-0146-S",
+            "type": "stop"
+          }
+        },
+        "trip": {
+          "data": {
+            "id": "Base-774215-1086",
+            "type": "trip"
+          }
+        },
+        "vehicle": {
+          "data": {
+            "id": "1830",
+            "type": "vehicle"
+          }
+        }
+      },
+      "type": "prediction"
+    },
+    {
+      "attributes": {
+        "arrival_time": "2025-10-28T18:11:22-04:00",
+        "arrival_uncertainty": null,
+        "departure_time": null,
+        "departure_uncertainty": null,
+        "direction_id": 0,
+        "last_trip": false,
+        "revenue": "REVENUE",
+        "schedule_relationship": null,
+        "status": null,
+        "stop_sequence": 90,
+        "update_type": null
+      },
+      "id": "prediction-Base-774212-1081-GRB-0276-S-90-CR-Greenbush",
+      "relationships": {
+        "route": {
+          "data": {
+            "id": "CR-Greenbush",
+            "type": "route"
+          }
+        },
+        "stop": {
+          "data": {
+            "id": "GRB-0276-S",
+            "type": "stop"
+          }
+        },
+        "trip": {
+          "data": {
+            "id": "Base-774212-1081",
+            "type": "trip"
+          }
+        },
+        "vehicle": {
+          "data": {
+            "id": "1840",
+            "type": "vehicle"
+          }
+        }
+      },
+      "type": "prediction"
+    },
+    {
+      "attributes": {
+        "arrival_time": "2025-10-28T18:15:34-04:00",
+        "arrival_uncertainty": 301,
+        "departure_time": "2025-10-28T18:16:00-04:00",
+        "departure_uncertainty": 301,
+        "direction_id": 1,
+        "last_trip": false,
+        "revenue": "REVENUE",
+        "schedule_relationship": null,
+        "status": null,
+        "stop_sequence": 60,
+        "update_type": null
+      },
+      "id": "prediction-Base-774215-1086-GRB-0118-S-60-CR-Greenbush",
+      "relationships": {
+        "route": {
+          "data": {
+            "id": "CR-Greenbush",
+            "type": "route"
+          }
+        },
+        "stop": {
+          "data": {
+            "id": "GRB-0118-S",
+            "type": "stop"
+          }
+        },
+        "trip": {
+          "data": {
+            "id": "Base-774215-1086",
+            "type": "trip"
+          }
+        },
+        "vehicle": {
+          "data": {
+            "id": "1830",
+            "type": "vehicle"
+          }
+        }
+      },
+      "type": "prediction"
+    },
+    {
+      "attributes": {
+        "arrival_time": "2025-10-28T18:24:54-04:00",
+        "arrival_uncertainty": 301,
+        "departure_time": "2025-10-28T18:24:54-04:00",
+        "departure_uncertainty": 301,
+        "direction_id": 1,
+        "last_trip": false,
+        "revenue": "REVENUE",
+        "schedule_relationship": null,
+        "status": null,
+        "stop_sequence": 70,
+        "update_type": null
+      },
+      "id": "prediction-Base-774215-1086-MM-0079-S-70-CR-Greenbush",
+      "relationships": {
+        "route": {
+          "data": {
+            "id": "CR-Greenbush",
+            "type": "route"
+          }
+        },
+        "stop": {
+          "data": {
+            "id": "MM-0079-S",
+            "type": "stop"
+          }
+        },
+        "trip": {
+          "data": {
+            "id": "Base-774215-1086",
+            "type": "trip"
+          }
+        },
+        "vehicle": {
+          "data": {
+            "id": "1830",
+            "type": "vehicle"
+          }
+        }
+      },
+      "type": "prediction"
+    },
+    {
+      "attributes": {
+        "arrival_time": "2025-10-28T18:40:17-04:00",
+        "arrival_uncertainty": 301,
+        "departure_time": null,
+        "departure_uncertainty": null,
+        "direction_id": 1,
+        "last_trip": false,
+        "revenue": "REVENUE",
+        "schedule_relationship": null,
+        "status": null,
+        "stop_sequence": 80,
+        "update_type": null
+      },
+      "id": "prediction-Base-774215-1086-NEC-2287-80-CR-Greenbush",
+      "relationships": {
+        "route": {
+          "data": {
+            "id": "CR-Greenbush",
+            "type": "route"
+          }
+        },
+        "stop": {
+          "data": {
+            "id": "NEC-2287",
+            "type": "stop"
+          }
+        },
+        "trip": {
+          "data": {
+            "id": "Base-774215-1086",
+            "type": "trip"
+          }
+        },
+        "vehicle": {
+          "data": {
+            "id": "1830",
+            "type": "vehicle"
+          }
+        }
+      },
+      "type": "prediction"
+    }
+  ],
+  "jsonapi": {
+    "version": "1.0"
+  }
+}
