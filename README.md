@@ -5,7 +5,7 @@
 
 ---
 
-## 📘 Project Overview
+## Project Overview
 This project implements a **modular, reproducible, and automated MLOps Data Pipeline** using **Apache Airflow** and **DVC**.  
 The pipeline orchestrates the entire data lifecycle — from **data acquisition** to **bias detection**, including **schema validation**, **testing**, **versioning**, and **alerting**.  
 
@@ -27,7 +27,7 @@ All stages are integrated into Airflow DAGs to ensure reproducibility, traceabil
 
 ---
 
-## 🧱 Folder Structure
+## Folder Structure
 
 ```
 /Charlie-main
@@ -86,7 +86,7 @@ All stages are integrated into Airflow DAGs to ensure reproducibility, traceabil
 
 ---
 
-## 🧩 Airflow DAG Architecture
+##  Airflow DAG Architecture
 
 ### 1️⃣ `data_collection_dag`
 - Fetches MBTA routes, vehicles, and alerts every hour.  
@@ -137,7 +137,7 @@ default_args = {
 
 ---
 
-## 🧮 Data Version Control (DVC)
+## Data Version Control (DVC)
 The pipeline uses **DVC** for full reproducibility of data and intermediate artifacts.
 
 Run any stage individually:
@@ -150,13 +150,13 @@ dvc repro anomalies
 
 ---
 
-## 🧠 Bias Detection
+## Bias Detection
 Implemented via **Fairlearn**:
 - Measures **Demographic Parity Difference** and **Equal Opportunity Difference**.
 
 ---
 
-## 🧪 Testing
+## Testing
 Unit tests implemented via **pytest**:
 
 ```bash
@@ -170,14 +170,14 @@ Tests cover:
 
 ---
 
-## 🪵 Logging & Monitoring
+## Logging & Monitoring
 - Centralized logging through Python’s `logging` module.  
 - Airflow UI logs for DAG-level tracking.  
 - Local logs stored in `Data_Pipeline/logs/`.
 
 ---
 
-## 🧰 Setup & Execution
+## Setup & Execution
 
 ### 1️⃣ Clone the Repository
 ```bash
